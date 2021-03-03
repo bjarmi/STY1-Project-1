@@ -15,9 +15,9 @@ shell plays the role of both the currently running process and the
 hardware by accepting commands typed in by the user and invoking the
 corresponding functions of the manager.
 
-#####Python version 3.9
+##### Python version 3.9
 
-#####Running program in terminal/CMD:
+##### Running program in terminal/CMD:
 
     To read in a file:
         python path_to/main.py {file_name}
